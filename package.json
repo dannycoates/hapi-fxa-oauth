@@ -1,7 +1,7 @@
 {
   "name": "hapi-fxa-oauth",
   "description": "A simple authentication plugin for Hapi applications to become Firefox Accounts OAuth service providers",
-  "version": "2.3.0",
+  "version": "3.0.0",
   "author": "Mozilla (https://mozilla.org/)",
   "repository": "https://github.com/mozilla/hapi-fxa-oauth",
   "dependencies": {
